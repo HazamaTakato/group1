@@ -1,0 +1,299 @@
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\number.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\timer.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\pipo-btleffect.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.wma
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingse.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.wma
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplayse.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.wma
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlese.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_enemy_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_player_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\puddle.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\good.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.wma
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\K018A1407\Desktop\oikake\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particleBlue.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingse.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplayse.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlese.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\good.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\number.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_enemy_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_player_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particleBlue.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\pipo-btleffect.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\puddle.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\timer.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\rea.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1_bullet.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Player1.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingse.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplayse.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlese.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1_bullet.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\good.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\number.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_enemy_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_player_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particleBlue.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\pipo-btleffect.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Player1.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\puddle.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\rea.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\timer.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingse.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplayse.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.wma
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlese.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1_bullet.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\good.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\number.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_enemy_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_player_4anime.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particleBlue.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\pipo-btleffect.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Player1.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\player_sentouki.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\puddle.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\rea.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\teki2.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\teki3.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\teki3_tama.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\timer.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\tyuubosu.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\tyuubosu_iwa.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\tyuubosu_tama.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\GAMEOVER.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\haikei.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\jiki_kyouka_tama.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\jiki_tama.xnb
+C:\Users\K018A1407\Desktop\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\titlee.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingbgm.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\endingse.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplaybgm.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\gameplayse.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\goodendingbgm.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.wma
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlebgm.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Sound\titlese.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\black.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\ending.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\enemy1_bullet.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\GAMEOVER.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\good.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\haikei.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Item.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\jiki_kyouka_tama.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\jiki_tama.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\number.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_enemy_4anime.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\oikake_player_4anime.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particle.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\particleBlue.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\pipo-btleffect.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\Player1.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\player_sentouki.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\puddle.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\rea.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\score.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\stage.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\teki2.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\teki3.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\teki3_tama.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\timer.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\title.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\titlee.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\tyuubosu.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\tyuubosu_iwa.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\tyuubosu_tama.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Content\white.xnb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\Oikake.pdb
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csprojAssemblyReference.cache
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CoreCompileInputs.cache
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.csproj.CopyComplete
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.exe
+C:\Users\K018A1407\Desktop\フォルダまとめ\oikake - コピー - コピー - コピー\trunk\Oikake\Oikake\obj\x86\Debug\Oikake.pdb
